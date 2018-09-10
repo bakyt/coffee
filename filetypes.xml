@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="vue" type="Native" />
       <mapping pattern="Multilang" type="PHP" />
+      <mapping pattern="log_api_news.txt" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
